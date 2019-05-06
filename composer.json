@@ -1,0 +1,20 @@
+{
+    "name": "oro/php-utils",
+    "type": "library",
+    "description": "Oro PHP Utils Component",
+    "keywords": ["Oro", "PHP", "Utils", "Util"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "autoload": {
+        "psr-0": { "Oro\\Component\\PhpUtils": "" }
+    },
+    "target-dir": "Oro/Component/PhpUtils",
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
